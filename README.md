@@ -1,4 +1,4 @@
-<h1>Hi, I'm Ansel Ali! <br/>Software Engineer • Mobile App Developer • UI/UX & Web Design Enthusiast</h1>
+<h1>Hi, I'm Ansel Ali, <br/>Software Engineer • Mobile App Developer • UI/UX & Web Design Enthusiast</h1>
 
 <p>
 I'm a Computer Engineering graduate specializing in Software Engineering, Mobile App Development, 
