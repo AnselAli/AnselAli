@@ -14,7 +14,7 @@ it's mobile apps, web interfaces, or interactive tools.
     <ul>
       <li>Full mobile app with maps, tours, itineraries, recommendations, and real-time content.</li>
       <li>Designed complete UI/UX flow with responsive components.</li>
-      <li><a href="#">https://github.com/AnselAli/exploreTT.git</a></li>
+      <li><a href="https://github.com/AnselAli/exploreTT.git">https://github.com/AnselAli/exploreTT.git</a></li>
     </ul>
   </li>
 
