@@ -40,7 +40,7 @@ it's mobile apps, web interfaces, or interactive tools.
       <li>Features browsing of items, cart management, billing/shipping forms, and order placement.</li>
       <li>Implements basic user roles: Administrator, Customer, and Content Editor.</li>
       <li>Focuses on core web development concepts, UI layout, and problem-to-solution conversion.</li>
-      <li><a href="#">https://github.com/AnselAli/The-Quick-Green-Store.git</a></li>
+      <li><a href="#">https://github.com/AnselAli/The-Quick-Green-Store</a></li>
     </ul>
   </li>
 
