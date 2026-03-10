@@ -18,7 +18,7 @@ or interactive tools.
 <li>Full mobile application with maps, tours, itineraries, recommendations, and real-time content.</li>
 <li>Designed the complete UI/UX flow with responsive components.</li>
 <li>Integrated Firebase for real-time data management.</li>
-<li><a href="https://github.com/AnselAli/exploreTT">View Project</a></li>
+<li><a href="https://github.com/AnselAli/Tourism-App">View Project</a></li>
 </ul>
 </li>
 
