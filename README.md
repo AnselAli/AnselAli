@@ -32,6 +32,17 @@ or interactive tools.
 </li>
 
 <li>
+<b>Bakery E-Commerce Website – Full Stack Web App (Next.js, Supabase)</b>
+<ul>
+<li>Modern bakery e-commerce platform built using Next.js with a Supabase backend.</li>
+<li>Features product browsing, dynamic pages, and a responsive user interface.</li>
+<li>Designed to provide a smooth and user-friendly online shopping experience.</li>
+<li>Developed to refresh and expand my modern web development skills.</li>
+<li><a href="https://github.com/AnselAli/Bakery-App">View Project</a></li>
+</ul>
+</li>
+
+<li>
 <b>Itinerary Manager – Tourism Activity Planner (React Native, Firebase)</b>
 <ul>
 <li>Full CRUD operations for itinerary management.</li>
