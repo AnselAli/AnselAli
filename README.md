@@ -87,6 +87,13 @@ or interactive tools.
 <ul>
 <li>BASc Computer Engineering – University of Trinidad and Tobago</li>
 <li>Diploma in Software Engineering – University of Trinidad and Tobago</li>
+<li>
+<b>Next.js App Router Fundamentals – Vercel</b>
+<ul>
+<li>Completed the official Vercel course covering modern Next.js architecture, App Router, layouts, server components, and best practices for scalable applications.</li>
+<li>Issued: October 2025</li>
+</ul>
+</li>
 </ul>
 
 <h2>🤝 Connect With Me</h2>
